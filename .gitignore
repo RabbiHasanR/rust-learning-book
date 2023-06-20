@@ -21,3 +21,6 @@
 
 # Ignore files for Cargo directory 3
 /variable_and_mutability/target/
+
+# Ignore files for Cargo directory 3
+/fibonacci/target/
