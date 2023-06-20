@@ -1,0 +1,23 @@
+# Ignore files for Cargo directory 1
+/control_flow/target/
+
+# Ignore files for Cargo directory 2
+/data_types/target/
+
+# Ignore files for Cargo directory 3
+/functions/target/
+
+# Ignore files for Cargo directory 3
+/guessing_game/target/
+
+# Ignore files for Cargo directory 3
+/hello_world/hello_cargo/target/
+
+# Ignore files for Cargo directory 3
+/loops/target/
+
+# Ignore files for Cargo directory 3
+/temperature_converter/target/
+
+# Ignore files for Cargo directory 3
+/variable_and_mutability/target/
